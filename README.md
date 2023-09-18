@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Image Editor Web Application is a versatile tool designed to convert images to grayscale and various popular formats such as PNG, JPG, and WEBP. This application is built using Flask, Python, Bootstrap, and OpenCV, making it easy to use and extend for your image editing needs.
+EditNow is a versatile tool designed to convert images to grayscale and various popular formats such as PNG, JPG, and WEBP. This application is built using Flask, Python, Bootstrap, and OpenCV, making it easy to use and extend for your image editing needs.
 
 ## Features
 
