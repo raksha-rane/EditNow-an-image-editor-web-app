@@ -1,4 +1,4 @@
-# EditNow - Image Editor Web Application
+#Image Editor Web Application using Flask
 
 ## Overview
 
