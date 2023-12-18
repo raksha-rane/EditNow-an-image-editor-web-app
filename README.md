@@ -1,4 +1,4 @@
-#Image Editor Web Application using Flask
+# Image Editor Web Application using Flask
 
 ## Overview
 
