@@ -13,7 +13,6 @@ EditNow is a versatile tool designed to convert images to grayscale and various 
 - Extensible codebase for further customization.
 - Built-in image preview and download options.
 
-
 ## Getting Started
 
 ### Prerequisites
